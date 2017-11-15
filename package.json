@@ -1,0 +1,37 @@
+{
+  "name": "react-post-cra-boilerplate",
+  "version": "0.0.3",
+  "description": "Simple scripts to setup reactjs project the way i prefer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "setup-react-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorofino/react-post-cra-boilerplate.git"
+  },
+  "keywords": [
+    "cra",
+    "boilerplate",
+    "react",
+    "reacjs",
+    "redux",
+    "redux-form",
+    "sass",
+    "thunk",
+    "react-router",
+    "moment"
+  ],
+  "author": "Rodrigo Orofino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorofino/react-post-cra-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rorofino/react-post-cra-boilerplate#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
+}
